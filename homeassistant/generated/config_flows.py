@@ -572,6 +572,7 @@ FLOWS = {
         "steamist",
         "stookalert",
         "stookwijzer",
+        "stream_recorder",
         "streamlabswater",
         "subaru",
         "suez_water",
